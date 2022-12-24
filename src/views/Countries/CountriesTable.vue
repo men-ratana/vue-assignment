@@ -196,7 +196,6 @@ export default {
           (page - 1) * this.pagination.pageSize,
           (page - 1) * this.pagination.pageSize + this.pagination.pageSize
         );
-        console.log(this.countries)
     },
     loadCountries(searchParam) {
       this.isLoading = true;
