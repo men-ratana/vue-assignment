@@ -120,4 +120,12 @@ export default {
 .modal.show {
   background-color: rgba(0, 0, 0, 0.3);
 }
+.modal-dialog {
+  max-width: 1000px !important;
+}
+
+.modal-secondary .close > span:not(.sr-only) {
+  color: black !important;
+  font-size: 30px;
+}
 </style>

@@ -11,7 +11,7 @@
   
 <script>
 export default {
-  name: "people",
+  name: "countries",
   components: {},
 };
 </script>

@@ -30,9 +30,9 @@
         /> -->
         <sidebar-item
           :link="{
-            name: 'People',
+            name: 'Countries',
             icon: 'ni ni-bullet-list-67 text-red',
-            path: '/people',
+            path: '/countries',
           }"
         />
         <!-- <sidebar-item
